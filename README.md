@@ -5,8 +5,7 @@
 👋 Olá! Meu nome é Luana Bolino e sou estudante de Sistemas para Internet na UTFPR, sou apaixonada por desenvolvimento web. Com 20 anos, estou sempre em busca de aprender e aplicar novos conhecimentos em HTML, CSS, JavaScript, Typescript e Angular. Meu foco é criar experiências de usuário intuitivas e visuais agradáveis.
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/luanabolino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ---
